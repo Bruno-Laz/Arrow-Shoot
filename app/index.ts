@@ -1,4 +1,4 @@
-import './canvas'
+import './Canvas'
 import './Knight'
 import './Arrow'
 import './Target'
