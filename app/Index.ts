@@ -1,0 +1,6 @@
+import './canvas'
+import './Knight'
+import './Arrow'
+import './Target'
+import './Animate'
+//import '../examples/projectileGameExample/'
